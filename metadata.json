@@ -1,0 +1,6 @@
+{
+  "name": "RezZone Portfolio & CMS",
+  "description": "Modern, responsive 3D-enhanced portfolio with full CMS admin control for theme, content, profile, and media.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

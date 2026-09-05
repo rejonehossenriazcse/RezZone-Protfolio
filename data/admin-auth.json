@@ -1,0 +1,10 @@
+{
+  "adminEmail": "admin@rezzone.dev",
+  "adminPassword": "admin123",
+  "googleAuthEnabled": true,
+  "authorizedGoogleEmails": [
+    "riazthesigma@gmail.com",
+    "admin@rezzone.dev"
+  ],
+  "googleClientId": ""
+}

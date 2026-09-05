@@ -1,0 +1,298 @@
+{
+  "siteSettings": {
+    "brandName": "RezZone",
+    "logoUrl": "",
+    "logoHeight": 36,
+    "faviconUrl": "",
+    "heroLayout": "imageRight",
+    "profileImageShape": "rounded",
+    "enable3D": true,
+    "threeStyle": "torus",
+    "skillsDisplayStyle": "cards",
+    "navItems": [
+      {
+        "id": "nav-1",
+        "label": "Home",
+        "href": "#home"
+      },
+      {
+        "id": "nav-2",
+        "label": "About",
+        "href": "#about"
+      },
+      {
+        "id": "nav-3",
+        "label": "Education",
+        "href": "#education"
+      },
+      {
+        "id": "nav-4",
+        "label": "Skills",
+        "href": "#skills"
+      },
+      {
+        "id": "nav-socials",
+        "label": "Social Media",
+        "href": "#socials"
+      },
+      {
+        "id": "nav-5",
+        "label": "Contact",
+        "href": "#contact"
+      }
+    ],
+    "theme": {
+      "primaryColor": "#2563eb",
+      "secondaryColor": "#0ea5e9",
+      "accentColor": "#6366f1",
+      "lightMode": {
+        "background": "#f8fafc",
+        "surface": "#ffffff",
+        "text": "#0f172a",
+        "mutedText": "#64748b",
+        "border": "#e2e8f0"
+      },
+      "darkMode": {
+        "background": "#090d16",
+        "surface": "#111827",
+        "text": "#f1f5f9",
+        "mutedText": "#94a3b8",
+        "border": "#1e293b"
+      },
+      "presetName": "Ocean"
+    },
+    "socialsPageSettings": {
+      "title": "Social Profiles & Connect",
+      "subtitle": "Connect with me across all official platforms, coding repositories, and social channels.",
+      "layout": "grid"
+    },
+    "sectionsVisibility": {
+      "hero": true,
+      "about": true,
+      "education": true,
+      "skills": true,
+      "languages": true,
+      "socials": true,
+      "contact": true
+    }
+  },
+  "profile": {
+    "fullName": "RezZone",
+    "tagline": "CSE Student | Developer",
+    "bio": "Passionate computer science undergraduate focusing on modern web technologies, computational problem solving, and building responsive digital products.",
+    "district": "Feni",
+    "profilePicture": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=800&q=80",
+    "email": "contact@rezzone.dev",
+    "phone": "",
+    "address": "Feni, Bangladesh",
+    "currentRole": "Computer Science & Engineering Student",
+    "ctaButtons": [
+      {
+        "id": "cta-1",
+        "label": "Contact Me",
+        "href": "#contact",
+        "variant": "primary",
+        "openNewTab": false
+      },
+      {
+        "id": "cta-2",
+        "label": "View Education",
+        "href": "#education",
+        "variant": "outline",
+        "openNewTab": false
+      }
+    ],
+    "socialLinks": [
+      {
+        "id": "soc-1",
+        "platform": "GitHub",
+        "url": "https://github.com"
+      },
+      {
+        "id": "soc-2",
+        "platform": "LinkedIn",
+        "url": "https://linkedin.com"
+      },
+      {
+        "id": "soc-3",
+        "platform": "Twitter",
+        "url": "https://twitter.com"
+      }
+    ]
+  },
+  "education": [
+    {
+      "id": "edu-1",
+      "institution": "Northern University Bangladesh",
+      "degree": "BSc in Computer Science & Engineering (CSE)",
+      "level": "BSc",
+      "passingYear": "Ongoing",
+      "details": "Focusing on core computer science fundamentals, data structures, algorithms, and software engineering.",
+      "order": 1
+    },
+    {
+      "id": "edu-2",
+      "institution": "Uttara High School & College",
+      "degree": "Higher Secondary Certificate (HSC)",
+      "level": "HSC",
+      "passingYear": 2022,
+      "details": "Science stream with higher mathematics, physics, and chemistry.",
+      "order": 2
+    },
+    {
+      "id": "edu-3",
+      "institution": "Uttara High School & College",
+      "degree": "Secondary School Certificate (SSC)",
+      "level": "SSC",
+      "passingYear": 2024,
+      "details": "Science curriculum with distinction.",
+      "order": 3
+    }
+  ],
+  "skills": [
+    {
+      "id": "skill-1",
+      "name": "C",
+      "category": "Programming Language",
+      "proficiency": 85,
+      "order": 1
+    },
+    {
+      "id": "skill-2",
+      "name": "C++",
+      "category": "Programming Language",
+      "proficiency": 80,
+      "order": 2
+    },
+    {
+      "id": "skill-3",
+      "name": "Python",
+      "category": "Programming Language",
+      "proficiency": 85,
+      "order": 3
+    },
+    {
+      "id": "skill-4",
+      "name": "HTML",
+      "category": "Web Development",
+      "proficiency": 95,
+      "order": 4
+    },
+    {
+      "id": "skill-5",
+      "name": "CSS",
+      "category": "Web Development",
+      "proficiency": 90,
+      "order": 5
+    }
+  ],
+  "languages": [
+    {
+      "id": "lang-1",
+      "name": "Bengali",
+      "proficiency": "Native",
+      "order": 1
+    },
+    {
+      "id": "lang-2",
+      "name": "English",
+      "proficiency": "Professional Working",
+      "order": 2
+    }
+  ],
+  "socialPlatforms": [
+    {
+      "id": "plat-1",
+      "name": "GitHub",
+      "handle": "@RezZone",
+      "description": "Open source contributions, algorithms, web development projects, and repositories.",
+      "url": "https://github.com",
+      "pictureUrl": "https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?auto=format&fit=crop&w=400&q=80",
+      "buttonLabel": "View GitHub",
+      "badge": "Code Base",
+      "category": "Coding",
+      "order": 1,
+      "enabled": true
+    },
+    {
+      "id": "plat-2",
+      "name": "LinkedIn",
+      "handle": "RezZone",
+      "description": "Professional networking, CSE academic milestones, and engineering career updates.",
+      "url": "https://linkedin.com",
+      "pictureUrl": "https://images.unsplash.com/photo-1616469829941-c7200edec809?auto=format&fit=crop&w=400&q=80",
+      "buttonLabel": "Connect on LinkedIn",
+      "badge": "Professional",
+      "category": "Career",
+      "order": 2,
+      "enabled": true
+    },
+    {
+      "id": "plat-3",
+      "name": "Facebook",
+      "handle": "RezZone Official",
+      "description": "Personal social updates, student community discussions, and direct messages.",
+      "url": "https://facebook.com",
+      "pictureUrl": "https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?auto=format&fit=crop&w=400&q=80",
+      "buttonLabel": "Visit Facebook",
+      "badge": "Community",
+      "category": "Social",
+      "order": 3,
+      "enabled": true
+    },
+    {
+      "id": "plat-4",
+      "name": "Instagram",
+      "handle": "@rezzone.dev",
+      "description": "Behind the scenes, developer workspace snapshots, and student life moments.",
+      "url": "https://instagram.com",
+      "pictureUrl": "https://images.unsplash.com/photo-1611262588024-d12430b98920?auto=format&fit=crop&w=400&q=80",
+      "buttonLabel": "Follow on Instagram",
+      "badge": "Visuals",
+      "category": "Social",
+      "order": 4,
+      "enabled": true
+    },
+    {
+      "id": "plat-5",
+      "name": "YouTube",
+      "handle": "RezZone Tech",
+      "description": "Tech experiments, project demos, coding tutorials, and walkthroughs.",
+      "url": "https://youtube.com",
+      "pictureUrl": "https://images.unsplash.com/photo-1611162616475-46b635cb6868?auto=format&fit=crop&w=400&q=80",
+      "buttonLabel": "Watch Channel",
+      "badge": "Media",
+      "category": "Media",
+      "order": 5,
+      "enabled": true
+    },
+    {
+      "id": "plat-6",
+      "name": "X / Twitter",
+      "handle": "@rezzone",
+      "description": "Real-time tech thoughts, tech news, web development tips, and discussions.",
+      "url": "https://twitter.com",
+      "pictureUrl": "https://images.unsplash.com/photo-1611605698335-8b1569810432?auto=format&fit=crop&w=400&q=80",
+      "buttonLabel": "Follow on X",
+      "badge": "Feed",
+      "category": "Social",
+      "order": 6,
+      "enabled": true
+    }
+  ],
+  "adminAuthSettings": {
+    "adminEmail": "admin@rezzone.dev",
+    "adminPassword": "admin123",
+    "googleAuthEnabled": true,
+    "authorizedGoogleEmails": [
+      "riazthesigma@gmail.com",
+      "admin@rezzone.dev"
+    ]
+  },
+  "contactSubmissions": [],
+  "mediaLibrary": [],
+  "footer": {
+    "copyrightText": "© {year} RezZone. All rights reserved.",
+    "tagline": "Crafted with precision & CMS control"
+  }
+}
